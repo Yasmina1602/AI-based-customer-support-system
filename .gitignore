@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+py_3_10_lib/
+
+# Environment Variables & Secrets
+.env
+.env.local
+
+# Databases & Vector Stores
+*.db
+*.sqlite3
+ai-core/chroma_db/
+chroma_db/
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
