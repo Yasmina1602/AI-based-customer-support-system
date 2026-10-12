@@ -185,6 +185,10 @@ AI Core ishlab turganda interaktiv Swagger hujjatlari `http://127.0.0.1:8000/doc
 | `POST` | `/reload-data` | `data/` papkasidagi fayllarni darhol qayta indekslash (re-index) |
 | `GET` | `/docs` | Interaktiv Swagger API hujjatlari |
 
+<p align="center">
+  <img src="image/web_endpoint.png" alt="FastAPI Swagger Endpointlar" width="700"/>
+</p>
+
 ---
 
 ## 📄 Muallif va Litsenziya
